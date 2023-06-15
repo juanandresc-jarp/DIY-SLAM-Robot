@@ -8,7 +8,7 @@ unnecesary stuff for the scope of this repository so, there are just example scr
 to your necesities and build your own packages. 
   
 ---
-![alt text](https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/images/robot.jpg "Robot")
+<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/images/robot.jpg" alt="Robot">
 ## Hardware
 - Raspberry pi 4
 - YDLidar X2
@@ -77,9 +77,10 @@ it works well but, here are some tips:
    of obstacles, it will be easier for the robot to locate itself.
 
 Here is a map I made with this robot, it was a small place with a lot of obstacles.
-![alt text](https://github.com/juanandresc-jarp/DIY-SLAM-Robot/images/firstMap.jpg "Map")
+<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/images/firstMap.jpg" alt="Map">
 Here is another one, it was a big place with few obstacles so I needed to change laser parameters.
-![alt text](https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/maps/mapaLab.pgm "LabMap")  
+ 
+<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/maps/mapaLab.pgm" alt="LabMap">
 
 ## How to improve it
 This robot is pretty simple, so you can improve it in a lot of ways, here are some ideas:
