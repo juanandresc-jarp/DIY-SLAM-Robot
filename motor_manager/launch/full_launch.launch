@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find ydlidar_ros_driver)/launch/X2.launch" />
+    <include file="$(find cam_pkg)/launch/usb_cam.launch" />
+    <node name="motor_handler" pkg="motor_manager" type="motor_handler.py" output="screen" />
+</launch>
