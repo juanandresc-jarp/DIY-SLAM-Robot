@@ -77,7 +77,7 @@ it works well but, here are some tips:
    of obstacles, it will be easier for the robot to locate itself.
 
 Here is a map I made with this robot, it was a small place with a lot of obstacles.
-<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/images/firstMap.jpg" alt="Map">
+<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/images/firstMap.jpg" alt="Map" width="240" height="180">
 Here is another one, it was a big place with few obstacles so I needed to change laser parameters.
  
 <img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/maps/mapaLab.pgm" alt="LabMap">
