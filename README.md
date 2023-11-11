@@ -80,7 +80,7 @@ it works well but, here are some tips:
 Here is a map I made with this robot, it was a small place with a lot of obstacles.  
 <img src="images/firstMap.jpg" alt="Map">  
 Here is another one, it was a big place with few obstacles so I needed to change laser parameters.   
-<img src="https://github.com/juanandresc-jarp/DIY-SLAM-Robot/tree/main/maps/mapaLab.pgm" alt="LabMap">  
+<img src="images/labMap.jpg" alt="Map 2"> 
 
 ## How to improve it
 This robot is pretty simple, so you can improve it in a lot of ways, here are some ideas:
